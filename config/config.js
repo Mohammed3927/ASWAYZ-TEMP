@@ -1,7 +1,7 @@
 module.exports = {
   discordToken: 'TOKEN', // توكن البوت
-  joinVoiceChannelId: 'ID', // ايدي الروم لصنع رومك
-  categoryId: 'ID', // ايدي الكاتوجري
+  joinVoiceChannelId: '1350897895188074637 ', // ايدي الروم لصنع رومك
+  categoryId: '1350897837944344616', // ايدي الكاتوجري
   language: 'ar', // ar = للعربي | en = for english
 
   botPermissions: [
